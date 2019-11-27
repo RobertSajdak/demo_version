@@ -1,0 +1,26 @@
+#menu{
+position: absolute;
+top: 100px;
+left: 10px;
+width: 200px;
+
+border: 2px solid black;
+border-left: 0px solid black;
+}
+
+.menu-button {
+display: block;
+text-align: center;
+
+height: 35px;
+border: 1px solid black;
+margin: 1 px;
+font-size: 18px;
+
+text-decoration: none;
+color: black;
+}
+#header {
+text-align: center;
+font-size: 24px;
+}
